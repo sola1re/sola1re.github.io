@@ -24,16 +24,10 @@
       }
 
       
-      .article-author {
+      .article-param {
         font-size: 14px;
         color: #777;
         margin-left: auto; 
-      }
-
-      .article-date {
-        font-size: 14px;
-        color: #777;
-        margin-right: 10px;
       }
 
 key {
