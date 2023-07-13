@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Man-Dex</title>
+  <link rel= "stylesheet" href="../style/style.css"></head>
+  <meta charset="UTF-8">
+  <script src="../script/script.js"></script>
+<body>
+  <header>
+    <h1>Man-Dex</h1>
+    <button class="shadow__btn" onclick="location.href='../main.html'">Home</button>
+  </header>
+  
+  <main>
+    <article>
+    <!--Add content here---> 
+    </article>
+
+  </main>
+
+  <footer>
+    &copy; 2023 Man-Dex | All rights reserved
+  </footer>
+</body>
+</html>
