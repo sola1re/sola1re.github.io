@@ -1,3 +1,8 @@
+    .article-article{
+        background-color: white;
+        text-align: center;
+      }
+
     .article-projects {
         background-color: #ffc3c3;
         text-align: center;
@@ -13,9 +18,11 @@
         text-align: center;
       }
 
-      .article-article{
-        background-color: white;
+      .article-curriculum{
+        background-color: aquamarine;
+        text-align: center;
       }
+
 key {
     position: fixed;
     top: 140x;
