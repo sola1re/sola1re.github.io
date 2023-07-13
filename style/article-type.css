@@ -23,6 +23,19 @@
         text-align: center;
       }
 
+      
+      .article-author {
+        font-size: 14px;
+        color: #777;
+        margin-left: auto; 
+      }
+
+      .article-date {
+        font-size: 14px;
+        color: #777;
+        margin-right: 10px;
+      }
+
 key {
     position: fixed;
     top: 140x;
@@ -30,18 +43,16 @@ key {
     padding: 10px 20px;
     padding: 10px 20px;
     border: none;
-    color: #fff;
     border-radius: 7px;
+
     letter-spacing: 4px;
     font-weight: 700;
     text-transform: uppercase;
-    transition: 0.5s;
     transition-property: box-shadow;
     font-family: blu;
 
     margin-bottom: 40px;
     background-color: #fff;
-    border-radius: 4px;
     box-shadow: 0 0 25px rgb(59, 59, 59);
     transition: box-shadow 0.3s ease;
     margin-left: -20px; 

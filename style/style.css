@@ -59,6 +59,7 @@ body {
     margin: 0;
     font-size: 60px;
     padding: 10px;
+    color:white;
   }
 
   main {
@@ -87,12 +88,6 @@ body {
                 0 0 90px rgb(41, 42, 43);
   }
 
-  .article-date {
-    font-size: 14px;
-    color: #777;
-    margin-right: 10px;
-  }
-
   h2 {
     font-size: 24px;
     margin-bottom: 10px;
@@ -106,7 +101,7 @@ body {
 
   footer {
     background-color: #010101;
-    padding: 5px;
+    padding: 10px;
     color: #555;
     text-align: right;
     box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
@@ -114,8 +109,8 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
-
 }
+  
 
   a {
     color: black;
