@@ -55,19 +55,19 @@ body {
     margin: 0;
     font-size: 60px;
     padding: 10px;
-    color:white;
+    color:white;    
   }
 
   main {
     max-width: 800px;
     margin: 120px auto 20px;
     font-family: sli;
-    margin-bottom: 120px;
+    margin-bottom: 200px;
   }
 
   article {
     margin-bottom: 30px;
-    background-color: #fff;
+    background-color: #bfbfbf;
     padding: 15px;
     border-radius: 4px;
     box-shadow: 0 0 25px rgb(59, 59, 59);
@@ -92,13 +92,13 @@ body {
 
   p {
     line-height: 1.5;
-    color: #555;
+    color: #444444;
   }
 
   footer {
     background-color: #010101;
     padding: 10px;
-    color: #555;
+    color: #444444;
     text-align: right;
     box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
     position: fixed;
@@ -161,3 +161,42 @@ body {
                 0 0 90px rgb(41, 42, 43);
   }
 
+  .back-to-top {
+    position: fixed;
+    bottom: 45px;
+    right: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 70%;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .back-to-top:hover {
+    background-color: #555;
+  }
+  
+  key {
+    position: fixed;
+    top: 16.5%;
+    left: 80%;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 7px;
+
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: blu;
+
+    transition-property: box-shadow;
+    background-color: #fff;
+    box-shadow: 0 0 25px rgb(59, 59, 59);
+    transition: box-shadow 0.3s ease;
+}

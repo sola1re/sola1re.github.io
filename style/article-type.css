@@ -1,6 +1,5 @@
     .article-article{
         background-color: white;
-        text-align: center;
       }
 
     .article-projects {
@@ -26,31 +25,8 @@
       
       .article-param {
         font-size: 14px;
-        color: #777;
+        color: #585858;
         margin-left: auto; 
       }
 
-key {
-    position: fixed;
-    top: 140x;
-    right: 70px;
-    padding: 10px 20px;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 7px;
-
-    letter-spacing: 4px;
-    font-weight: 700;
-    text-transform: uppercase;
-    transition-property: box-shadow;
-    font-family: blu;
-
-    margin-bottom: 40px;
-    background-color: #fff;
-    box-shadow: 0 0 25px rgb(59, 59, 59);
-    transition: box-shadow 0.3s ease;
-    margin-left: -20px; 
-    margin-right: -20px;
-
-}
 

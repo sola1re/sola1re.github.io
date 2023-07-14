@@ -19,3 +19,17 @@ window.addEventListener("scroll", function() {
     header.classList.remove("scrolled");
   }
 });
+
+function scrollToTop() {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+}
+
+
+window.addEventListener('scroll', function() {
+  var articleBox = document.getElementById('article-box');
+  var scrollPosition = window.scrollY;
+    articleBox.style.left = 80 + scrollPosition * 0.2 + '%';
+});
