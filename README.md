@@ -1,4 +1,4 @@
-# Man-Dex @ sola1re.github.io
+# Man-Dex @ https://sola1re.github.io
 
 ## About the Man-Dex 👾
 The Man-Dex is the Mandon Index, an extension of my own brain to keep track of the things I do, helping me reflect on past projects and achievements, and hopefully aiding others in the process.
